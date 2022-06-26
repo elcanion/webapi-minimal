@@ -1,4 +1,5 @@
 using Microsoft.OpenApi.Models;
+using PizzaStore;
 
 var builder = WebApplication.CreateBuilder();
 
@@ -27,6 +28,10 @@ Console.WriteLine("Environment.EnvironmentName: " + builder.Environment.Environm
 
 
 app.MapGet("/", () => "Hello World!");
-
+app.MapGet("/pizzas/{id}", (int id) => Pizzas.GetPizza(id));
+app.MapGet("/pizzas", () => Pizzas.GetPizzas());
+app.MapPost("/pizzas", (Pizza pizza) => Pizzas.CreatePizza(pizza));
+app.MapPut("/pizzas", (Pizza pizza) => Pizzas.UpdatePizza(pizza));
+app.MapDelete("/pizzas/{id}", (int id) => Pizzas.RemovePizza(id));
 
 app.Run();

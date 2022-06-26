@@ -11,7 +11,7 @@ namespace PizzaStore
         public string? Name { get; set; }
     }
 
-    public class Database
+    public class Pizzas
     {
         private static List<Pizza> _pizzas = new List<Pizza>()
         {
