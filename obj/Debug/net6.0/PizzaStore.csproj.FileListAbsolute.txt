@@ -25,3 +25,4 @@ D:\prog\PizzaStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\prog\PizzaStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 D:\prog\PizzaStore\obj\Debug\net6.0\PizzaStore.MvcApplicationPartsAssemblyInfo.cs
 D:\prog\PizzaStore\obj\Debug\net6.0\PizzaStore.csproj.CopyComplete
+D:\prog\PizzaStore\bin\Debug\net6.0\Newtonsoft.Json.dll
