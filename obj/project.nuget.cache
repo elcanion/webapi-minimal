@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "BOx0S+MF9BLuL9p+NttwtF8EbTnCJW8Apza2HO9vOYxI2+KtYycQTkwm24dBJ5vb56UMQbfL9NaTXaZIIGI7xQ==",
+  "dgSpecHash": "teLi7TpzBen+8cClEXEUg1TiuQN7VV5x0f8iM07RB2s5b2MJrHbJ+HTgxPbYSUmNG3jjmVe9IoxyzdffkwEbYQ==",
   "success": true,
   "projectFilePath": "D:\\prog\\PizzaStore\\PizzaStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\enkidu\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\enkidu\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\enkidu\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\enkidu\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "C:\\Users\\enkidu\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "C:\\Users\\enkidu\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
